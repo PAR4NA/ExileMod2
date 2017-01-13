@@ -1,0 +1,2 @@
+ExileClientIntroIsPlaying = false;
+true
